@@ -415,7 +415,7 @@ color:#fff;
 
 .main-heading
 {
-   background: url(../images/m.jpg) center center no-repeat;
+   background: url("../images/m.jpg") center center no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
 	color: #cfcfcf;
